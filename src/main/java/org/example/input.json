@@ -1,0 +1,27 @@
+{
+  "boardSize" : 10,
+  "numberOfDice" : 2,
+  "movementStrategy" : "min",
+  "numberOfSnakes" : 3,
+  "snakePositions" : [
+    [62,5],
+    [33,6],
+    [49,9]
+  ],
+  "numberOfLadders" : 3,
+  "ladderPositions" : [
+    [27,46],
+    [10,32],
+    [51,68]
+
+  ],
+  "numberOfCrocodiles" : 3,
+  "crocodilePositions" : [61,71,81],
+  "numberOfMines" : 8,
+  "minePositions" : [1,2,3,4,5,6,7,8],
+  "numberOfPlayers" : 2,
+  "playersNameAndStartPos" : [
+    ["vinay",1],
+    ["anurag",1]
+  ]
+}
